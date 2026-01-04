@@ -1,0 +1,11 @@
+/* Globale UL/links reset (optioneel) */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+}

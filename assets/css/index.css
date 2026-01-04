@@ -1,0 +1,7 @@
+.bg-animated {
+  background:
+    radial-gradient(circle at 20% 30%, rgb(255, 166, 0), transparent 40%),
+    radial-gradient(circle at 80% 70%, rgb(255, 120, 120), transparent 40%),
+    antiquewhite;
+  background-size: 200% 200%;
+}
